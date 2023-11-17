@@ -1,2 +1,2 @@
-# Precurse-Henry
-Este es un repositorio del modulo2 del PreCourse Henry
+Caceres Ricardo
+Esta es una prueba de como descargar un repositorio y clonarlo desde github a mi computadora
